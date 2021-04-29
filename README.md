@@ -4,7 +4,7 @@ this has been tested to on: Community and Profesional Version
 
 
 # Prerequisites Apps:
-https://visualstudio.microsoft.com/downloads/   (Select your Desired copy)
+https://visualstudio.microsoft.com/downloads/
 https://www.imgburn.com/
 
 # Prerequisites Apps:
