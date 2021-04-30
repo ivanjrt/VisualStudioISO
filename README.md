@@ -19,8 +19,8 @@ once you press enter this will take sometime (hours) depending on your bandwith,
 
 # Open ImageBurn and Select: <br/>
 follow the guide below
-
-
-
-
-
+<img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn1.jpg" alt="add role">
+<img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn2.jpg" alt="add role">
+<img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn3.jpg" alt="add role">
+<img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn4.jpg" alt="add role">
+<img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn5.jpg" alt="add role">
