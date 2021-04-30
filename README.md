@@ -24,3 +24,6 @@ follow the guide below
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn3.jpg" alt="add role">
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn4.jpg" alt="add role">
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn5.jpg" alt="add role">
+
+This will also take sometime
+
