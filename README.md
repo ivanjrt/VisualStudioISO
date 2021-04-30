@@ -17,8 +17,8 @@ C:\VS19\vs_community.exe --layout
 ````
 once you press enter this will take sometime (hours) depending on your bandwith, there will also be a percentage message on status
 
-# Open ImageBurn and Select: <br/>
-follow the guide below
+# Open ImageBurn and Select:
+follow the guide below<br/>
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn1.jpg" alt="add role">
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn2.jpg" alt="add role">
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn3.jpg" alt="add role">
