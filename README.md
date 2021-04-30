@@ -25,5 +25,6 @@ follow the guide below
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn4.jpg" alt="add role">
 <img src="https://github.com/ivanjrt/VisualStudioISO/blob/main/imgburn5.jpg" alt="add role">
 
-This will also take sometime
-
+once you have click **Build** , it will open a dialog so you can put the name of the iso you'd like.<br/>
+again this will take sometime<br/>
+Enjoy!
